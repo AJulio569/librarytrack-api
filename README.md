@@ -1,4 +1,7 @@
-# LibraryTrack  API REST de Gestión de Bibliotecas
+<img width="1536" height="1024" alt="Logo de LibraryTrack" src="https://github.com/user-attachments/assets/2b5feb07-97c0-42f0-826c-90accd468f87" />
+
+# API REST de Gestión de Bibliotecas
+
 
 ---
 
